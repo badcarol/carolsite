@@ -1,6 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
+import 'bootstrap/dist/css/bootstrap-grid.css';
+import '@fortawesome/fontawesome-free/css/all.css';
+import 'react-slideshow-image/dist/styles.css'
+import './style.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
